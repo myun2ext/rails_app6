@@ -38,3 +38,6 @@ gem 'bootstrap-sass'
 
 # To use debugger
 # gem 'debugger'
+
+# Memcached
+gem 'dalli'
